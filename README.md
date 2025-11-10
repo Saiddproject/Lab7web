@@ -105,7 +105,7 @@ Kelas : Ti.24.A1
 </html>
 ```
 # Hasilnya
-<img width="2240" height="1268" alt="Cuplikan layar 2025-11-10 173725" src="https://github.com/user-attachments/assets/39c0d872-cce3-4f4c-b8b7-8c5bb76b2eed" />
+<img width="2240" height="1266" alt="Cuplikan layar 2025-11-10 182746" src="https://github.com/user-attachments/assets/405849ad-8468-48e8-ab31-745f42feee1b" />
 
 # Codingan yang suda di tambahkan css
 ```php
@@ -306,7 +306,8 @@ Kelas : Ti.24.A1
 </html>
 ```
 # Hasil jika sudah ditambahkan css
-<img width="2240" height="1268" alt="Cuplikan layar 2025-11-10 174026" src="https://github.com/user-attachments/assets/87d6cc43-d7a2-49b3-aeec-d25afdb2c5ec" />
+<img width="2240" height="1265" alt="Cuplikan layar 2025-11-10 182829" src="https://github.com/user-attachments/assets/cab9d4dc-a258-4275-90df-1e8f08bf407e" />
+
 
 
 
